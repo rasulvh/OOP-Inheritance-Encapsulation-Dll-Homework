@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-İnheritance-Encapsulation-Dll", "OOP-İnheritance-Encapsulation-Dll\OOP-İnheritance-Encapsulation-Dll.csproj", "{7B255BBF-53DC-4412-8B0D-3EEB86DFFB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{684A6F80-B93F-42B4-BA90-5A09DE769A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B255BBF-53DC-4412-8B0D-3EEB86DFFB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B255BBF-53DC-4412-8B0D-3EEB86DFFB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B255BBF-53DC-4412-8B0D-3EEB86DFFB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B255BBF-53DC-4412-8B0D-3EEB86DFFB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684A6F80-B93F-42B4-BA90-5A09DE769A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684A6F80-B93F-42B4-BA90-5A09DE769A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684A6F80-B93F-42B4-BA90-5A09DE769A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684A6F80-B93F-42B4-BA90-5A09DE769A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C4924A-D65D-44D1-AECD-6F5635559BC6}
+	EndGlobalSection
+EndGlobal
